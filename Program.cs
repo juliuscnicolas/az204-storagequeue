@@ -7,7 +7,7 @@ namespace QueueApp
 {
     class Program
     {
-        private const string ConnectionString = "DefaultEndpointsProtocol=https;EndpointSuffix=core.windows.net;AccountName=jocnsaazlearn;AccountKey=ew1nBHMvruZ/TsJBavl8yEQ3sK8t2jhzHT1kQrdQ91yzS6yCUPetM6kVTsY9AJBo4h4WkIXrw/Ba1QGs5tcIhQ==";
+        private const string ConnectionString = "<connection String here>";
 
         static async Task Main(string[] args)
         {
