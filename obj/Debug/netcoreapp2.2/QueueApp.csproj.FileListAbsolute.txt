@@ -1,0 +1,11 @@
+/home/juliuscnicolas/QueueApp/bin/Debug/netcoreapp2.2/QueueApp.deps.json
+/home/juliuscnicolas/QueueApp/bin/Debug/netcoreapp2.2/QueueApp.runtimeconfig.json
+/home/juliuscnicolas/QueueApp/bin/Debug/netcoreapp2.2/QueueApp.runtimeconfig.dev.json
+/home/juliuscnicolas/QueueApp/bin/Debug/netcoreapp2.2/QueueApp.dll
+/home/juliuscnicolas/QueueApp/bin/Debug/netcoreapp2.2/QueueApp.pdb
+/home/juliuscnicolas/QueueApp/obj/Debug/netcoreapp2.2/QueueApp.csprojAssemblyReference.cache
+/home/juliuscnicolas/QueueApp/obj/Debug/netcoreapp2.2/QueueApp.csproj.CoreCompileInputs.cache
+/home/juliuscnicolas/QueueApp/obj/Debug/netcoreapp2.2/QueueApp.AssemblyInfoInputs.cache
+/home/juliuscnicolas/QueueApp/obj/Debug/netcoreapp2.2/QueueApp.AssemblyInfo.cs
+/home/juliuscnicolas/QueueApp/obj/Debug/netcoreapp2.2/QueueApp.dll
+/home/juliuscnicolas/QueueApp/obj/Debug/netcoreapp2.2/QueueApp.pdb
